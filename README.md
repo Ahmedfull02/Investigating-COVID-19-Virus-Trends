@@ -1,4 +1,4 @@
-# Investigating-COVID-19-Virus-Trends
+# Investigating COVID 19 Virus Trends
 
 You'll step into the role of a data analyst exploring the global COVID-19 pandemicusing real-world data. Leveraging R and the powerful dplyr library,
 you'll manipulate, filter, and aggregate a comprehensive dataset containing information on COVID-19 cases, tests, and hospitalizations 
